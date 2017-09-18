@@ -6,7 +6,7 @@ namespace SimulationWinner
 {
     class Program
     {
-        //data structures
+        // data structures
         class Rope
         {
             private Point _start;
